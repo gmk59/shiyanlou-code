@@ -6,3 +6,4 @@ while a<100:
     print(a)
 
 
+Git 操作很简单
